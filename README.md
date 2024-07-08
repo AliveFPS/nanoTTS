@@ -3,3 +3,11 @@ Simple project which reads chat from a discord channel and sends it to TTS Voice
 
 ## Tech Stack:
 - Python
+
+## Features:
+- Read discord messages 
+- Play message through TTS Voice Wizard
+
+
+## TTS Voice Wizard
+- https://ttsvoicewizard.com/
